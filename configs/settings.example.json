@@ -1,7 +1,7 @@
 {
   "public": {
-    "title": "Symptomatic.io",
-    "theme": {
+    "title": "Open-Clinical.Net",
+    "theme":{
       "showVideoBackground": false,
       "darkroomTextEnabled": false,
       "defaultVideo": "/VideoBackgrounds/GrayWaves.mp4",
